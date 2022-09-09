@@ -1,0 +1,44 @@
+#website {
+  width: 120px;
+  float: inline-start;
+}
+body {
+  text-align: center;
+  text-decoration: none;
+}
+
+#forgot {
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  padding-left: 25px;
+}
+#Join {
+  padding: 0px;
+}
+
+#grey {
+  background-color: rgb(244, 244, 244);
+  height: 300px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#Signup {
+  background-color: orangered;
+  color: white;
+  border-color: orangered;
+}
+
+#login {
+  background-color: blue;
+  color: white;
+  border-color: blue;
+}
+
+#sign {
+  color: white;
+}
